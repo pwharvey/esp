@@ -6,5 +6,5 @@ nav:
   - Home: index.md
   - Protocols:
       - Training:
-          - Torque Capacity: protocols/training/torque-capacity.md
+          - Torque Capacity: protocols/training/torque.md
       - (Template): protocols/training/_esp-protocol-template.md
