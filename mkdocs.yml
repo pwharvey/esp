@@ -1,5 +1,5 @@
 site_name: ESP Coaching Frameworks
-docs_dir: .
+
 theme:
   name: material
 nav:
