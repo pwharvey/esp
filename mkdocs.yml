@@ -1,6 +1,10 @@
 site_name: ESP Coaching Frameworks
+docs_dir: .
 theme:
   name: material
 nav:
+  - Home: index.md
   - Protocols:
+      - Training:
+          - Torque Capacity: protocols/training/torque-capacity.md
       - (Template): protocols/training/_esp-protocol-template.md
