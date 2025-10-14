@@ -1,0 +1,6 @@
+site_name: ESP Coaching Frameworks
+theme:
+  name: material
+nav:
+  - Protocols:
+      - (Template): protocols/training/_esp-protocol-template.md
